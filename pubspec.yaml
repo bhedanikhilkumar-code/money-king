@@ -1,0 +1,31 @@
+name: mymoney
+description: "Money King - offline expense tracker built with Flutter"
+publish_to: 'none'
+version: 1.0.7+8
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  local_auth: ^2.1.8
+  provider: ^6.1.2
+  shared_preferences: ^2.2.3
+  fl_chart: ^0.68.0
+  intl: ^0.18.1
+  uuid: ^4.4.0
+  crypto: ^3.0.3
+  supabase_flutter: ^2.8.4
+  flutter_dotenv: ^6.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.2
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
