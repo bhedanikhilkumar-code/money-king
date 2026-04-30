@@ -54,6 +54,20 @@ This README is written as a **portfolio-grade project document**: it explains th
 | **Insight layer** | Charts, summaries, and dashboards make the data easier to understand. |
 | **Security-minded** | Personal finance workflows are designed with privacy and app-lock expectations in mind. |
 
+<!-- PROJECT_DOCS_HUB_START -->
+
+## Documentation Hub
+
+| Document | Purpose |
+| --- | --- |
+| [Architecture](docs/ARCHITECTURE.md) | System layers, workflow, data/state model, and extension points. |
+| [Case Study](docs/CASE_STUDY.md) | Product framing, decisions, tradeoffs, and portfolio story. |
+| [Roadmap](docs/ROADMAP.md) | Practical next steps for turning the project into a stronger product. |
+| [Contributing](CONTRIBUTING.md) | Branching, commit, review, and quality guidelines. |
+| [Security](SECURITY.md) | Responsible disclosure and safe configuration notes. |
+
+<!-- PROJECT_DOCS_HUB_END -->
+
 ## Detailed Product Blueprint
 
 ### Experience Map
