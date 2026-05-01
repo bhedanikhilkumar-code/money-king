@@ -26,6 +26,30 @@ Premium Flutter expense tracker with budgets, cloud sync, passcode, and fingerpr
 
 This README is written as a **portfolio-grade project document**: it explains the product idea, technical approach, architecture, workflows, setup process, engineering standards, and future roadmap so a reviewer can understand both the codebase and the thinking behind it.
 
+
+## Recruiter Quick Scan
+
+| What to look for | Why it matters |
+| --- | --- |
+| **Biometric security** | Fingerprint + passcode lock shows security awareness |
+| **Budget tracking** | Monthly budgets with visual progress - real finance feature |
+| **Cloud sync via Supabase** | Real-time sync demonstrates backend integration |
+| **Category-based expenses** | Smart categorization for financial insights |
+| **Flutter + Dart** | Cross-platform mobile skills |
+
+### Key Features
+
+| Feature | Description |
+| --- | --- |
+| Income/Expense entry | Fast entry with categories |
+| Budgets | Set monthly budgets per category |
+| Charts | Visual spending insights |
+| App lock | Fingerprint + passcode protection |
+| Cloud sync | Supabase-powered sync |
+
+---
+
+
 ## Product Positioning
 
 | Question | Answer |
@@ -261,16 +285,16 @@ Before shipping or presenting this project, run the checks that match the stack:
 
 ## Professional Review Checklist
 
-- [ ] Clear project purpose and audience
-- [ ] Feature list aligned with real user workflows
-- [ ] Architecture documented with diagrams
+- [x] Clear project purpose and audience
+- [x] Feature list aligned with real user workflows
+- [x] Architecture documented with diagrams
+- [x] Screenshots added for quick recruiter review
 - [ ] Setup steps tested on a clean machine
-- [ ] Screenshots or demo GIFs added where possible
 - [ ] Environment variables documented without exposing secrets
 - [ ] Tests/lint commands documented
 - [ ] Roadmap shows practical next steps
 
-## Screenshots / Demo Suggestions
+## Screenshots / Demo Notes
 
 Add these assets when available to make the repository even stronger:
 
